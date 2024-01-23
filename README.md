@@ -31,7 +31,7 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-- Your Name
+- Omar El Kersh 
 
 Feel free to reach out with any questions or feedback!
 
