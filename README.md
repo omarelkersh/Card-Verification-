@@ -1,4 +1,4 @@
-# Pan Card Tampering Detection
+# Card Tampering Detection
 
 This Python script detects tampering in Pan card images using structural similarity index and contour detection. It compares an original Pan card image with a tampered version and highlights the differences.
 
